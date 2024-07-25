@@ -1,5 +1,6 @@
 {
   "name": "school_site",
+  "prebuild": "export CI=false",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
